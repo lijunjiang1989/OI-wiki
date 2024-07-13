@@ -28,3 +28,5 @@
 
 -   维护者：Menci（[men.ci](https://men.ci)），线路：Azure + 阿里云 CDN，同步频率：与主站相同
     -   <https://oi.wiki>
+-   维护者:Cookie,线路:CloudFlare,同步频率：与主站相同
+    -   <https://oiwiki.site> 
